@@ -1,5 +1,4 @@
 name: Deploy to GitHub Pages
-
 on:
   # Activa el flujo de trabajo cada vez que hagas push a la rama `main`
   # Usando un nombre de rama diferente? Reemplaza `main` con el nombre de tu rama
